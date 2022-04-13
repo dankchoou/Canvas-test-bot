@@ -1,0 +1,9 @@
+*Test.py
+
+venv/
+
+__pycache__
+*.ini
+
+.vscode
+.idea
